@@ -1,0 +1,8 @@
+laptop
+mobile
+mouse
+train
+computer
+paper
+apples
+monkey
