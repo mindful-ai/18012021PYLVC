@@ -1,0 +1,9 @@
+Task #1
+Complete the function write2file()
+
+Task #2
+Use csv module to simplify the data read and write2file
+
+Task #3
+Create a student class 
+Use the student objects instead of dictionaries to solve the project
